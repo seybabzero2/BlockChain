@@ -1,0 +1,14 @@
+/home/bohdan/Downloads/user/BlockChainLesson-master/BlockChain/bin/Debug/net10.0/BlockChain
+/home/bohdan/Downloads/user/BlockChainLesson-master/BlockChain/bin/Debug/net10.0/BlockChain.deps.json
+/home/bohdan/Downloads/user/BlockChainLesson-master/BlockChain/bin/Debug/net10.0/BlockChain.runtimeconfig.json
+/home/bohdan/Downloads/user/BlockChainLesson-master/BlockChain/bin/Debug/net10.0/BlockChain.dll
+/home/bohdan/Downloads/user/BlockChainLesson-master/BlockChain/bin/Debug/net10.0/BlockChain.pdb
+/home/bohdan/Downloads/user/BlockChainLesson-master/BlockChain/obj/Debug/net10.0/BlockChain.GeneratedMSBuildEditorConfig.editorconfig
+/home/bohdan/Downloads/user/BlockChainLesson-master/BlockChain/obj/Debug/net10.0/BlockChain.AssemblyInfoInputs.cache
+/home/bohdan/Downloads/user/BlockChainLesson-master/BlockChain/obj/Debug/net10.0/BlockChain.AssemblyInfo.cs
+/home/bohdan/Downloads/user/BlockChainLesson-master/BlockChain/obj/Debug/net10.0/BlockChain.csproj.CoreCompileInputs.cache
+/home/bohdan/Downloads/user/BlockChainLesson-master/BlockChain/obj/Debug/net10.0/BlockChain.dll
+/home/bohdan/Downloads/user/BlockChainLesson-master/BlockChain/obj/Debug/net10.0/refint/BlockChain.dll
+/home/bohdan/Downloads/user/BlockChainLesson-master/BlockChain/obj/Debug/net10.0/BlockChain.pdb
+/home/bohdan/Downloads/user/BlockChainLesson-master/BlockChain/obj/Debug/net10.0/BlockChain.genruntimeconfig.cache
+/home/bohdan/Downloads/user/BlockChainLesson-master/BlockChain/obj/Debug/net10.0/ref/BlockChain.dll
